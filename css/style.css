@@ -1,0 +1,47 @@
+body {
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background-color: #cccccc;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+#resume {
+    font-size: 20px;
+    padding: 30px;
+}
+
+#resume strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+#beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+#beneficios img {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
