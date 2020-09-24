@@ -33,6 +33,7 @@ p {
 #beneficios {
     background: #ffffff;
     padding: 20px;
+    display: inline-block;
 }
 
 #beneficios img {
