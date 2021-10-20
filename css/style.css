@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover{
-    color: #C78C19;
+    color: grey;
     text-decoration: underline;
 }
 .produtos {
@@ -114,7 +114,7 @@ form label, form p {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    background: orange;
+    background: grey;
     color: #ffffff;
     font-weight: bold;
     font-size: 18px;
@@ -126,7 +126,7 @@ form label, form p {
 }
 
 .enviar:hover {
-    background: darkorange;
+    background: grey;
     transform: scale(1.02);
 }
 
