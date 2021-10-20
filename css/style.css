@@ -4,7 +4,7 @@ header {
 }
 .caixa {
     position: relative;
-    width: 940px;
+    width: 940px;jjjk
     margin: 0 auto; 
     font-family: 'Courier Prime', monospace;
 }
@@ -205,10 +205,6 @@ td, th {
 .imagem-beneficios {
     width: 60%;
     box-shadow: 10px 10px 10px 0 #000000;
-}
-
-.imagem-beneficios:hover {
-    opacity: 0.3;
 }
 
 .lista-beneficios {
